@@ -1,0 +1,8 @@
+
+audit.log
+.idea/
+.venv/
+__pycache__/
+
+
+
